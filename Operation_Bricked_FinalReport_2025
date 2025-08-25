@@ -1,0 +1,739 @@
+============================================================
+[DECLASSIFIED DOCUMENT]  
+[PUBLIC RELEASE]  
+============================================================
+
+============================================================
+⚠️ WARNING – INFORMATIONAL PURPOSES ONLY ⚠️
+============================================================
+
+This repository contains OSINT-based research on unauthorized digital services and piracy networks.  
+
+It is published for **informational and research purposes only.**  
+- ❌ It does NOT promote piracy.  
+- ❌ It does NOT distribute copyrighted files.  
+- ✅ All rights belong to their respective owners (e.g. Nintendo Co., Ltd).  
+
+The author reserves the right to reclassify or restrict access if misuse of this material is detected.
+
+1. INTRODUCTION TO OPERATION BRICKED
+
+Operation Bricked (OP Bricked) is an independent digital operation developed by the digital vigilante Michael de la Emera. 
+Its primary objective is the identification, analysis, documentation, and dismantling of a network of groups and individuals 
+involved in the unauthorized distribution of software and the illegitimate recreation of online services belonging to Nintendo Co., Ltd.
+
+The operation specifically focuses on the Nintendo Wii ecosystem, gathering technical, visual, and audiovisual evidence that demonstrates the existence of platforms
+enabling digital piracy. This activity is primarily conducted through the distribution of WAD files and the impersonation of discontinued official Wii channels.
+
+2. OBJECTIVES OF THE OPERATION
+
+2.1 General Objective
+To conduct a comprehensive investigation into the unauthorized distribution of software and the illegitimate recreation of online services within the Nintendo Wii 
+ecosystem, with the ultimate goal of documenting, exposing, and dismantling the digital structures that sustain these activities.
+
+2.2 Specific Objectives
+- Identification of platforms, groups, and individuals involved in Wii-related digital piracy.
+- Collection of technical, visual, and audiovisual evidence demonstrating the existence of infringing activities.
+- Analysis of methods used to distribute WAD files and recreate discontinued official services.
+- Documentation of findings in a structured format suitable for technical and legal review.
+- Exposure of the impact these illicit activities have on Nintendo’s intellectual property rights and the Wii ecosystem.
+
+3. SCOPE AND METHODOLOGY
+
+3.1 Scope of the Operation
+Operation Bricked focuses exclusively on the Nintendo Wii ecosystem, with particular emphasis on:
+- Unauthorized distribution of WAD files, used to install pirated software and channels.
+- Illegitimate recreation of discontinued official online services, impersonating Nintendo’s proprietary platforms.
+- Platforms, groups, and individuals engaged in facilitating or distributing such content.
+
+The operation does not target casual users but rather aims at identifying and exposing organized efforts that directly 
+contribute to the proliferation of piracy-related infrastructures.
+
+3.2 Methodology
+
+The investigation was conducted using OSINT (Open Source Intelligence) techniques and strictly legal, publicly accessible sources. The methodology included:
+- Technical reconnaissance of forums, repositories, and platforms dedicated to Wii-related content.
+- Comparative analysis between legitimate Nintendo services and their illegitimate recreations.
+- Archival of data in a structured repository for traceability and long-term reference.
+- Cross-verification of findings to ensure accuracy and avoid reliance on unconfirmed sources.
+
+3.3 Domain Intelligence (WHOIS)
+
+As part of the OSINT methodology, WHOIS lookups were performed on domains identified during the investigation.
+These lookups allowed the extraction of:
+- Domain registration details (registrar, creation and update dates).
+- Registrant information (organization, country, anonymization services).
+- Technical infrastructure (nameservers, hosting providers).
+The WHOIS analysis proved useful in:
+- Attributing responsibility to specific operators or organizations.
+- Detecting the use of privacy-shielding services to obscure identity.
+- Establishing chronology of domain activity in relation to piracy-related incidents.
+
+4. FINDINGS AND EVIDENCE
+
+4.0 Case File #1 – wiishopchannel.net
+
+Case File ID: OB-2025-001
+Date Opened: 24 August 2025
+Investigator: Michael de la Emera
+Offense Under Investigation: Unauthorized distribution of Nintendo Wii software (WAD files).
+
+4.0.1 Subject Information
+
+Primary Suspect: Nathan Boehm
+Discord: https://discord.gg/QY3bExzUec
+YouTube: https://www.youtube.com/NathanBoehm
+Personal Website: https://nathanboehm.com/
+
+Initial Observations:
+- The suspect publicly identifies himself by his real name on the investigated platform.
+- Multiple communication channels are openly provided, including Discord, YouTube, and a personal website.
+- The suspect operates the website wiishopchannel.net to distribute copyrighted Nintendo WADs.
+- Public posts and videos show explicit acknowledgment of the illegality of his activities.
+
+4.0.2 Domain Intelligence – wiishopchannel.net
+
+- WHOIS Query Date: 24 August 2025
+- Domain Name: wiishopchannel.net
+- Register: NameCheap, Inc. (IANA ID: 1068)
+- Creation Date: 06 September 2023
+- Updated Date: 07 August 2025
+- Expiration Date: 06 September 2026
+- Status: Client Transfer Prohibited
+- Name Servers:
+ · dns1.registrar-servers.com
+ · dns2.registrar-servers.com
+- Abuse Contact: abuse@namecheap.com
+
+Registrant Privacy Shield
+
+- Organization: Neocities
+- Address: Kalkofnsvegur 2, 101 Reykjavik, Capital Region, IS
+- Phone: +354-421-2434
+- Email: f9c3f9f3928f48b8b6ebc56ee88d3faf.protect@withheldforprivacy.com
+Email provided is a privacy-protected relay address. Direct disclosure of registrant email is Neocities.
+(Registrant details protected under privacy service; full disclosure archived internally.)
+
+4.0.3 Audiovisual Evidence
+
+Video 1
+1.Title: I Remade the Wii Shop Channel as a Website
+2.Channel: Nathan Boehm
+3.URL: https://www.youtube.com/watch?v=NLH3WRUZJjc
+4.Date Published: 14 January 2024
+5.Duration: 12:39
+6.Description: No text, links only.
+
+Video 2
+1.Title: The Wii Shop Channel is Back… But Different (Wiishopchannel.net showcase)
+2.Channel: Mr. Music
+3.URL: https://www.youtube.com/@MrMusic367
+4.Date Published: 08 January 2024
+5.Duration: 6:03
+6.Description: “This fan recreation of the Wii Shop Channel made by @NathanBoehm is absolutely amazing. I was pleasantly surprised with its accuracy…”
+
+Video 3
+1.Title: Wiishopchannel.net Overview Walkthrough
+2.Channel: chezburger
+3.URL: https://www.youtube.com/@MrMusic367
+4.Date Published: 07 January 2024
+5.Duration: 2:10
+6.Description: No text, links only.
+
+4.0.4 Impact Assessment
+
+- The website wiishopchannel.net constitutes a direct impersonation of the discontinued Nintendo Wii Shop Channel.
+- It is being used to distribute WAD files without authorization, infringing on Nintendo’s intellectual property rights.
+- Public audiovisual material (YouTube) demonstrates the site’s operation and reinforces its reach.
+- The suspect’s public identification and acknowledgment of his involvement significantly reduce anonymity, strengthening attribution.
+
+4.0.5 Investigator’s Notes
+
+- Subject openly associates his real name with the project, minimizing plausible deniability.
+- Multiple digital footprints (Discord, YouTube, personal website) provide confirmed linkage to the suspect.
+- Due to the domain register being NameCheap, Inc., located in the U.S., takedown notices and legal escalation are procedurally viable through Nintendo of America.
+
+4.0.6 LIST OF AVAILABLE WAD FILES
+Description:
+This section contains a full list of WiiWare titles and channels made available for unauthorized download from wiishopchannel.net. 
+The files correspond to official Nintendo software distributed in WAD format without authorization.
+
+Complete WiiWare and Channel Listing (as of evidence collection date):
+1.ThruSpace™
+2.Eco Shooter: Plant 530™
+3.Magnetica™ Twist
+4.WarioWare™: D.I.Y Showcase
+5.Art Style™: light trax™
+6.My Pokémon™ Ranch
+7.Bonsai Barber™
+8.Art Style™: ROTOHEX™
+9.Dr. Mario® Online Rx
+10.PictureBook Games™: Pop-Up Pursuit
+11.Fluidity
+12.AquaSpace
+13.You, Me, and the Cubes™
+14.LONPOS
+15.Maboshi's Arcade™
+16.Art Style™: ORBIENT™
+17.Doc Louis’s Punch-Out!!™
+18.Snowpack Park™
+19.Art Style™: CUBELLO™
+20.Pokémon™ Rumble
+21.Grill-Off with Ultra Hand!™
+22.Rock N Roll Climber™
+24.Excitebike™: World Rally
+24.Dr. Mario® Online Rx Friend Battle Demo
+25.Pokémon™ Rumble Demo
+26.Fluidity Demo
+27.ThruSpace™ Demo
+28.Amazon Instant Video
+29.Hulu Plus™
+30.The Legend of Zelda: Skyward Sword Save Data Update Channel
+31.Netflix
+32.Wii Speak™ Channel
+33.Nintendo Channel
+34.Check Mii Out™ Channel
+35.Metroid® Prime 3 Preview
+36.Internet Channel
+
+4.1 Case File #2 – WiiLink
+
+Case File ID: OB-2025-002
+Date Opened: 24 August 2025
+Investigator: Michael de la Emera
+Offense Under Investigation: Replacement, activation, and impersonation of Nintendo Wii official online services (terminated by Nintendo in 2019).
+
+4.1.1 Suspects
+
+Primary Identified Individual
+
+Real Name: Becca Williamson
+Alias/Handle: @jess.undertaleplus.com (Bluesky)
+Declared Role: WiiLink Content Co-Director, Social Media Manager | WiiLink, FamicomCD, Undertale Plus Japanese Translator
+Source: Public Bluesky profile
+Relevance:
+- Confirms that WiiLink is not an anonymous initiative; visible leadership exists.
+- Self-identifies as co-director of content and social media manager, establishing active responsibility in the management and promotion of WiiLink.
+- Involvement in other projects (FamicomCD, Undertale Plus) shows participation in a wider network of fan-driven and alternative initiatives.
+
+Project Team Members (self-declared in public repositories and communications):
+(Information extracted from WiiLink Project Website)
+
+1.Sketch - Team Lead [Cánada]
+2.Becca Williamson - Content Management [Japan]
+3.Alex - Developer/Designer [No Identified]
+4.Jinjo - Localization Management [Brasil]
+5.Ryaltheamazing - Social Media [United States/USA]
+6.Palapeli - WWFC Developer [United States/USA]
+7.Giustino - Developer [Italia]
+8.Kouacc - Developer/Translator [France]
+9.Harry Walker [United Kingdom/UK]
+
+🔗 Public GitHub Organization Members:
+https://github.com/orgs/WiiLink24/people 
+
+4.1.2 Associated Online Presence
+
+- Official Website: wiilink.ca/
+- YouTube Channel: WiiLink on YouTube
+- Bluesky Profile: WiiLink on Bluesky
+- Discord Community: discord.com/invite/wiilink
+- GitHub Repository: github.com/WiiLink24
+
+4.1.3 Official and Fixed Links of Interest
+
+The following links were officially published and pinned by the WiiLink project, openly accessible to the public:
+
+1.Wii Modding Guide → https://wii.hacks.guide/
+(Public guide dedicated to Wii console modification, directly bypassing Nintendo’s protection measures. Considered direct evidence of piracy encouragement.)
+
+2.WiiLink Website → https://www.wiilink24.com/
+(Main website of the unauthorized WiiLink service.)
+
+3.Twitter (Official) → https://x.com/WiiLink24
+(Social network used for public communication and diffusion of WiiLink.)
+
+4.YouTube (Official) → https://www.youtube.com/WiiLink24
+(Multimedia channel with audiovisual content promoting WiiLink usage.)
+
+5.Discord Server (Permanent) → https://discord.gg/wiilink
+(Interactive communication channel where installation material and assistance are provided.)
+
+6.News Server → https://discord.gg/e5GyqxTmWh
+(Complementary server for updates and official announcements of the project.)
+
+7.Ban Appeal Form → https://tripetto.app/run/KWV4V3HPKH
+(Internal management tool showing WiiLink’s organized and hierarchical community structure.)
+
+4.1.4 WiiLink 24 Patcher
+
+Subject of Analysis: WiiLink 24 Patcher
+Nature: Unauthorized software patching and installation tool
+Entity Responsible: WiiLink Development Team
+
+General Description
+The so-called WiiLink 24 Patcher is a program developed and publicly distributed by the WiiLink team to automate the installation of their unauthorized online service.
+The group itself describes the tool as one that allows the user to “sit back and relax while the patcher does everything for you”,
+confirming the process of automated piracy and Nintendo service impersonation.
+
+Declared Technical Functionality
+- Library Utilized: libWiiSharp, specifically designed to manipulate and download official Nintendo Wii channel contents.
+- Binary Modification Method: Applies VCDiff (binary diff tool) to alter original Nintendo files.
+- Result: Generates patched WAD files, which can then be installed on the Wii console.
+- Purpose: These patched WADs are essential to access the WiiLink24 network, which operates as an unauthorized replacement of Nintendo’s original online channels.
+
+Preliminary Findings
+The WiiLink 24 Patcher constitutes clear evidence of:
+- Download, alteration, and redistribution of Nintendo-owned digital contents.
+- Creation of illegitimate derivative works (patched WADs).
+- Facilitation of piracy through a simplified and automated process, significantly lowering the technical barrier for end users.
+
+Technical Evidence: Update Log Extracts
+- Localization Support Added: Languages supported: English, Italian, Dutch, Hungarian, Japanese. 
+Indicates unauthorized translation and redistribution of Nintendo content in patched WAD format.
+
+- Migrated to .NET 9: Documented intent to reduce antivirus false positives.
+Confirming an effort to disguise the suspicious nature of the software and circumvent security systems.
+
+- Windows ARM64 Compatibility: Evidence of deliberate expansion of distribution to new platforms, thus facilitating wider propagation of illegal software.
+
+- Patched Wii Speak Channel for Wiimmfi: Direct proof of impersonation of an official Nintendo channel-
+Wii Speak and reactivation of its online functionality through unlicensed servers.
+
+- Configuration Flow Reworked (System Channel Restorer): Tool designed to restore and reinstall system-level Nintendo channels, demonstrating deep firmware manipulation.
+
+- Structured Distribution of WADs: Patched files and applications systematically organized in the /WiiLink subdirectory, 
+evidencing intentional large-scale distribution of illegitimate packages.
+
+Bug Fixes Documented
+1.Crash issues with extra/custom configurations resolved.
+2.Photo Channel 1.1 WAD repaired (TMD correctly patched).
+3.Confirms the WiiLink team not only distributes.
+But also maintains and repairs official Nintendo channels, effectively assuming corporate-level responsibilities without authorization.
+
+4.1.5 List of Patched WADS
+The following WAD files were identified as patched and redistributed by the WiiLink project.
+These files correspond to modified versions of original Nintendo Wii channels and services:
+
+1.Kirby TV Channel (WiiLink).wad
+2.Food Channel (Standard) [English] (WiiLink).wad
+3.Photo Prints Channel [English] (WiiLink).wad
+4.Wii Room [Spanish] (WiiLink).wad
+5.Mii Contest Channel [PAL] (WiiLink).wad
+6.Region Select [PAL] (WiiLink).wad
+7.Everybody Votes Channel [PAL] (WiiLink).wad
+8.News Channel [PAL] (WiiLink).wad
+9.Forecast Channel [PAL] (WiiLink).wad
+10.Nintendo Channel [PAL] (WiiLink).wad
+11.WiiLink Address Settings.wad
+
+Notes:
+- Each patched WAD constitutes a derivative work of Nintendo intellectual property.  
+- Their redistribution under the WiiLink service demonstrates direct infringement of copyright law.  
+- The automation of the patching process lowers the technical barrier, making piracy easily accessible to non-technical users.  
+Source: Extracted from WiiLink24 Patcher.exe in a controlled testing environment, for investigative and reporting purposes only.
+
+4.1.5 PRELIMINARY CONCLUSION 
+
+Nature of the Activity
+The investigation confirms that WiiLink constitutes an organized network of individuals engaged in the unauthorized reactivation, modification, and distribution
+Of official Nintendo Wii software and online services.
+
+- The use of the WiiLink Patcher demonstrates a fully automated mechanism designed to download, alter, and redistribute official Nintendo channels in WAD format.
+- These modified WADs impersonate legitimate Nintendo services discontinued in 2019, thus facilitating the continued execution of proprietary content without authorization.
+
+Internal Organization
+Open-source intelligence (OSINT) evidence shows that WiiLink is not an informal or anonymous project but rather a structured operation with defined hierarchies.
+And identifiable roles including development, content direction, and social media management.
+
+- The presence of public-facing representatives further validates that WiiLink is deliberate and coordinated.
+Operating as a sustained collective rather than as isolated fan activity.
+
+Impact on Nintendo
+
+1.Economic: Indirect loss of revenue opportunities, undermining Nintendo’s control over the distribution of its proprietary software.
+2.Brand: Unauthorized channels are distributed and presented under the “Nintendo” name, creating consumer confusion and damaging corporate reputation.
+3.Legal: International distribution of altered WAD files and impersonated services across multiple jurisdictions.
+Significantly amplifying the scope and complexity of the infringement.
+
+Comparative Analysis with Case 1 (Wiishopchannel.net)
+The WiiLink case mirrors the operational pattern observed in Case 1 – Nathan Boehm / Wiishopchannel.net. 
+Both entities operate under the narrative of “preservation” but in practice execute illicit distribution and reactivation of Nintendo’s intellectual property.
+
+- The recurrence of these activities across separate groups suggests the existence of a wider pattern of coordinated IP violations.
+
+4.1.6 FINAL ASSESSMENT - CASE WIILINK
+
+Summary of Findings
+
+The investigation into the WiiLink network confirms the existence of a structured and coordinated operation engaged in the unauthorized reactivation.
+Modification, and redistribution of Nintendo Wii software and services.
+
+- The WiiLink Patcher serves as a central evidence point, providing an automated mechanism for altering and installing proprietary channels.
+WADS originally owned by Nintendo.
+- The distribution of these patched files enables users to access services discontinued in 2019.
+Directly infringing upon Nintendo’s intellectual property and circumventing the company’s authority over its own platforms.
+
+Legal Relevance
+
+1.Infringement of Intellectual Property: Unauthorized duplication, modification, and redistribution of Nintendo’s official channels.
+2.Trademark Misrepresentation: Continued use of Nintendo branding through modified channels induces user confusion, falsely suggesting official affiliation.
+3.Circumvention of Technological Protection Measures: Use of third-party patchers and tools.
+LibWiiSharp, VCDiff, demonstrates deliberate intent to bypass Nintendo’s security frameworks.
+4.International Jurisdiction: The WiiLink operation spans multiple territories, complicating enforcement.
+But also expanding liability under international copyright and trademark conventions.
+
+Organizational Structure
+
+Evidence collected shows that WiiLink is not an anonymous or sporadic fan effort but a collective with identified leadership and operational hierarchy.
+Key individuals, such as the Content Co-Director.
+And other named developers, demonstrate accountability within the group, removing any pretense of incidental or uncoordinated activity.
+
+Impact on Nintendo
+
+1.Financial: Loss of indirect revenue opportunities and undermining of Nintendo’s digital distribution strategy.
+2.Reputational: Unauthorized revival of discontinued services risks damaging Nintendo’s control over.
+Its own historical legacy and creates user confusion regarding official support.
+3.Legal Exposure: By offering download links, patching tools, and Discord-based user support, WiiLink exposes itself to multiple counts of copyright infringement.
+DMCA violations, and possible CFAA (Computer Fraud and Abuse Act) implications in the U.S.
+
+Comparative Context
+
+When analyzed in parallel with Case 1 (Wiishopchannel.net), WiiLink demonstrates escalation in scope and sophistication:
+- Case 1 involved a single individual replicating a storefront.
+- Case 2 represents a coordinated collective, distributing automated patching tools, hosting official-looking channels, and maintaining ongoing user support infrastructure.
+This escalation suggests the presence of a growing network of preservationist-piracy hybrids.
+Operating under the guise of community service but engaging in systematic IP violations.
+
+Final Determination
+
+The WiiLink operation should be considered a high-priority infringement case. The combination of:
+- Identifiable leadership.
+- Evidence of deliberate circumvention
+- And organized international distribution
+
+Provides Nintendo with strong grounds to pursue legal action, takedown orders, and potential damages claims.
+
+Recommendation
+
+It is recommended that Nintendo Legal:
+
+1.Issue formal cease-and-desist communications to identified members of WiiLink.
+2.Pursue DMCA takedowns against GitHub repositories, Discord servers, and web domains directly tied to the operation.
+3.Consider civil action for damages, given the organized and sustained nature of the infringement.
+4.Expand monitoring for related networks that may operate in tandem with WiiLink, as evidenced by parallels with Case 1.
+
+4.2 Case File #3 – Wiimart
+
+Case File ID: OB-2025-003
+Date Opened: 25 August 2025
+Investigator: Michael de la Emera
+Offense Under Investigation: Unauthorized replacement and impersonation of the official Wii Shop Channel (Nintendo Wii).
+
+4.2.1 SUSPECTS – IDENTIFIED INDIVIDUALS AND ROLES
+
+Source: https://wiimart.org/credits
+
+1.Primary Developer & Owner
+- Name: Christopher Decina
+- Alias: Ocarina
+- Role: Creator and current maintainer of WiiMart.
+- Accounts: Wiilab,Youtube Channel.
+- Relevance: Identified as the founder and core developer of WiiMart, initiated the project after the failure of “Rii Shop.” 
+Holds full administrative control over the storefront, making him the principal suspect.
+
+2.Core Administration and Development Team
+
+1.Selim
+
+1.Name: Selim Gozel
+2.Alias: Selim
+3.Role: Discord administrator and server hoster.
+4.Accounts: Wiilab.
+5.Relevance: Responsible for infrastructure hosting and platform services.
+
+2.Thom
+
+1.Alias: Thom
+2.Role: Discord administrator and server hoster.
+3.Accounts: Wiilab, Personal Website.
+4.Relevance: Responsible for infrastructure hosting and platform services.
+
+3.idkwhereisthisname
+
+1.Alias: idkwhereisthisname
+2.Role: Discord administrator, contributor to shop page development.
+3.Accounts: Wiilab,Youtube Channel,Personal Website.
+4.Relevance: Involved in content integration and structural design of the storefront
+
+4.Wabagg123
+
+1.Alias: Wabagg123
+2.Role: Developer focusing on WiiConnect24 and Wii SOAP integration.
+3.Accounts: Youtube Channel.
+4.Relevance: Critical in reactivating and replicating Nintendo’s online communication protocols.
+
+3.Website Development Team
+
+1.Gemdation
+
+1.Alias: Gemdation
+2.Role: Lead website coder, branding designer.
+3.Accounts: Wiilab,Youtube Channel,Personal Website.
+4.Relevance: Responsible for website infrastructure and replication of Wii Shop aesthetics.
+
+2.TheWiiArchivist
+
+1.Alias: TheWiiArchivist
+2.Role: Discord moderator, Main Coder and owner of Reviive.
+3.Accounts: Wiilab,Youtube Channel,Github.
+4.Relevance: Technical architect of early WiiMart platform and linked to previous infringing projects.
+
+4.Discord Staff and Community Managers
+
+1.YourTooSlow
+
+1.Alias: YourTooSlow
+2.Role: Discord administrator; trainee in HTML/JavaScript.
+
+2.Andry6702
+
+1.Alias: Andry6702
+2.Role: Discord moderator; prior involvement in New Shop Channel and Reviive.
+
+3.RM05
+
+1.Alias: RM05
+2.Role: Discord administrator; translator for WiiMart.
+
+4.Emolgun
+
+1.Alias: Emolgun
+2.Role: Discord moderator.
+
+5.DefeatOf13
+
+1.Alias: DefeatOf13
+2.Role: Discord moderator; mascot designer for WiiMart.
+
+6.Subnetic
+
+1.Alias: Subnetic
+2.Role: Discord administrator; frequent creator of Virtual Console injects.
+
+7.ThatOneYoshi
+
+1.Alias: ThatOneYoshi
+2.Role: Discord moderator.
+
+8.cosmobona56
+
+1.Alias: cosmobona56
+2.Role: Discord moderator.
+
+5.External Contributors
+
+1.Roulettz
+
+1.Alias: Roulettz
+2.Contribution: Created the first 2006-style WiiMart WAD banner.
+
+2.Nathan Boehm (Case #1 – Wiishopchannel.net)
+
+1.Alias/Name: Nathan Boehm 
+2.Contribution: Provided reference material and support for WiiMart development.
+
+3.saulfabreg
+
+1.Alias: saulfabreg
+2.Contribution: Virtual Console inject creator.
+
+4.dustinbriggs1991
+
+1.Alias: dustinbriggs1991
+2.Contribution: Virtual Console inject creator.
+
+5.Onion Mastori
+
+1.Alias: Onion Mastori
+2.Contribution: Virtual Console inject creator.
+
+6.TheErrorExe
+
+1.Alias: TheErrorExe
+2.Contribution: ReviveMii-powered YouTube service integration.
+
+7.A for Animation
+
+1.Alias: A for Animation
+2.Contribution: Provided additional Virtual Console injects.
+
+Analysis:
+The presence of Nathan Boehm in both Case #1 (as owner) and Case #3 (as contributor) confirms a direct operational link between at least two projects.
+This establishes that the three groups investigated are not fully independent. 
+But rather form part of a loosely connected network of individuals cooperating across different initiatives.
+
+Nintendo’s intellectual property is being targeted by a coordinated community with shared contributors and overlapping technical practices.
+This pattern strengthens the case for a broader legal strategy, treating the incidents not as isolated infringements.
+But as elements of a structured network of piracy and unauthorized service emulation.
+
+4.2.2 About WiiMart
+
+Content Overview:
+The WiiMart platform provides direct access to a catalog of unauthorized software packages replicating the former Wii Shop Channel. 
+This catalog includes both WiiWare titles and Virtual Console games originally distributed and owned by Nintendo and third-party partners.
+
+WiiWare Titles Identified:
+1.Dr. Mario Online Rx
+2.My Pokémon Ranch
+3.Super Mario 64 (WiiWare variant / emulated release)
+4.Sonic the Hedgehog 4: Episode I
+5.Fishie Fishie
+
+Virtual Console Titles Identified:
+1.Super Mario Bros.
+2.Sonic the Hedgehog
+3.Super Mario 64
+4.Pac-Man
+5.Galaga
+
+Preliminary Assessment
+
+The inclusion of these titles demonstrates:
+1.Unauthorized redistribution of copyrighted games previously available through Nintendo’s official platform.
+2.Cross-licensing violations involving third-party publishers (e.g., Sega with Sonic the Hedgehog, Namco with Pac-Man and Galaga).
+3.Replication of Nintendo’s business model, by offering the same titles in an alternative platform controlled by non-affiliated individuals.
+
+This constitutes clear evidence of intellectual property infringement on multiple levels, directly affecting Nintendo and associated rightsholders.
+
+Custom Virtual Console Injects:
+In addition to redistributing original WiiWare and Virtual Console titles, WiiMart expands its catalog through the use of custom Virtual Console injects.
+These injects are modified ROMs placed into official Nintendo emulator containers (WAD format).
+Allowing titles never released on the Wii Shop Channel to be executed as if they were legitimate.
+
+Examples of Recent Injected Titles:
+- The New Tetris
+- EarthBound
+- Super Mario All-Stars + Super Mario World
+- Mortal Kombat
+
+Release Practices:
+· WiiMart implements a recurring distribution model branded as “WiiMart Wednesday”, whereby new titles are added weekly.
+· Users are directed to consult an “in-progress WiiMart Title Sheet,” further illustrating the systematic and organized nature of the operation.
+
+Preliminary Assessment:
+
+The addition of custom Virtual Console injects demonstrates:
+- Unauthorized derivative works – repackaging software never officially distributed on Wii.
+- Circumvention of technical protections by using Nintendo’s proprietary emulation framework for non-licensed games.
+- Ongoing and structured content distribution, reinforcing that WiiMart functions not as a casual preservation effort but as a sustained piracy network.
+
+Frequently Asked Questions (Evidence Extract)
+The following FAQ entries were extracted directly from WiiMart’s public-facing materials. 
+They provide insight into the operational model, scope, and self-portrayal of the service.
+
+Troubleshooting & Support
+
+1.Users encountering error codes are instructed to use a proprietary tool or seek direct assistance via Discord or Reddit.
+2.Demonstrates existence of a structured support network around the unauthorized service.
+
+Monetization & Wii Points
+
+1.WiiMart explicitly states that its service is “entirely free of charge.”
+2.“Wii Points” are simulated solely for cosmetic purposes to mimic the original Wii Shop Channel.
+3.Confirms deliberate replication of Nintendo’s monetization system without legal or financial backing.
+
+Compatibility
+
+1.WiiMart can function on the Dolphin Emulator, provided the user has access to a real console NAND.
+2.However, download functionality is reported as non-operational under Dolphin.
+3.Evidence that WiiMart directly engages with both emulated and physical environments.
+
+Features in Use
+
+1.Developers state that “most of the channel’s features” (downloads, dynamic banners, catalogs) are already functional.
+2.Confirms operational parity with the original Wii Shop Channel.
+
+Feature Roadmap
+
+1.Updates are declared to occur “on the owner and developers’ own time.”
+2.Gift functionality is explicitly disabled after a request from a WiiConnect24 revival team.
+3.Shows interaction with, and possible pressure from, other unauthorized service operators.
+
+Data Storage
+
+1.WiiMart acknowledges that its web server logs IP addresses of connected users.
+2.Wii console serial numbers are also stored in a SOAP database, albeit “with encryption.”
+3.Confirms collection and processing of personal data by a non-legitimate operator, raising privacy and legal implications.
+
+Common Errors
+
+1.Users experiencing region or black screen errors are instructed to install Priiloader and enable “Region Free EVERYTHING” hacks.
+2.Evidence of direct encouragement to bypass Nintendo’s built-in region-lock protections.
+
+Observation
+During the investigation of WiiMart, references were identified to a parallel project named “DSiMart”, described by the team as a planned DSi Shop revival.
+
+- Nature of Project: Like WiiMart, DSiMart is conceived as an open-source replacement service for the discontinued Nintendo DSi Shop.
+- Status: At present, development is paused, with the group prioritizing efforts on WiiMart.
+- Relevance: The existence of DSiMart demonstrates the expansion strategy of the same individuals or associated network.
+Aiming to systematically revive and replace multiple defunct Nintendo services.
+- Implication: This strengthens the evidence that WiiMart is not an isolated project, but part of a larger coordinated ecosystem attempting to restore, modify.
+And redistribute Nintendo’s proprietary platforms without authorization.
+
+4.2.3 FORENSIC NOTE – Branding Similarity
+
+Source Reference: Wal-Mart Logos 1980s–1990s Typeface
+
+Observation
+The WiiMart project makes explicit use of branding elements that directly imitate the Wal-Mart corporate identity.
+The selected font and visual style correspond to a reproduction of the Wal-Mart logos from the 1980s and 1990s, available in open font repositories.
+
+Forensic Relevance
+- This establishes that the project appropriates not only Nintendo’s intellectual property (software, services, channels), but also Wal-Mart’s trademarked branding identity.
+- The use of the name “WiiMart” combined with Wal-Mart’s typography and branding aesthetic constitutes a dual infringement:
+  1.Copyright / Trademark violation of Nintendo, by cloning the Wii Shop Channel.
+  2.Trademark dilution and misappropriation of Wal-Mart’s corporate brand, suggesting endorsement or affiliation that does not exist.
+  3.This evidence confirms that WiiMart deliberately seeks to evoke two protected brands simultaneously.
+  4.Nintendo + WalMart to reinforce its identity and attract user recognition.
+
+Conclusion
+The use of the Wal-Mart logo typeface represents forensic evidence of intentional brand exploitation.
+Adding another legal risk vector to the operation of WiiMart, and further substantiating the case of organized infringement.
+
+5.CONCLUDING STATEMENT
+
+Following the comprehensive investigation into the three case files (OB-2025-001, OB-2025-002, OB-2025-003), the following conclusions are established:
+
+5.1 General Findings
+
+1.The subjects under investigation (WiishopChannel.net, WiiLink, WiiMart) operate as organized and structured networks, not isolated fan efforts.
+2.Each project demonstrates clear evidence of unauthorized distribution, modification, and reactivation of Nintendo’s proprietary software and services.
+3.Activities are coordinated via public-facing websites, Discord servers, GitHub repositories, and social media, confirming a sustained and visible organizational presence.
+
+5.2 Legal Impact
+
+1.Nintendo’s Intellectual Property: All three projects engage.
+In the alteration, redistribution, and emulation of Wii Channels and services, violating copyright law and Nintendo’s exclusive distribution rights.
+2.Trademark Misuse: WiiMart in particular demonstrates a dual infringement by appropriating both Nintendo’s software and Wal-Mart’s corporate branding.
+3.Facilitation of Piracy: Tools such as the WiiLink Patcher automate the process of bypassing Nintendo’s security, lowering the technical barrier for illicit use.
+
+5.3 Networked Operation
+
+1.Despite presenting themselves as independent communities, there is clear overlap of contributors and technical references across the three cases.
+2.The recurring involvement of individuals such as Nathan Boehm (WiishopChannel.net, contributor to WiiMart) demonstrates the existence of a connected underground network.
+
+5.4 Forensic Significance
+
+1.Visual evidence (screenshots, WAD directories, emulator tests) confirms the operational functionality of the services.
+2.OSINT sources (GitHub, Discord, Bluesky, YouTube, project websites) identify named individuals and roles, establishing accountability.
+3.Forensic branding evidence links WiiMart to Wal-Mart’s corporate identity, broadening the scope of infringement beyond Nintendo.
+
+FINAL ASSESSMENT
+The activities documented across Cases 1, 2, and 3 constitute a systematic infringement operation targeting Nintendo’s defunct online infrastructure. 
+The deliberate organization, technical sophistication, and cross-case collaboration elevate these actions beyond casual fan preservation.
+Instead presenting them as an illicit, international-scale reproduction network.
+
+RECOMENDATION
+The gathered evidence substantiates sufficient cause for Nintendo (and potentially Wal-Mart, in Case 3) to pursue civil litigation and takedown measures.
+With further escalation possible under criminal frameworks depending on jurisdiction.
